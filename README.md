@@ -36,6 +36,7 @@ python -m toolkit convert 1 --from km --to m
 lab_01/
   pyproject.toml
   README.md
+  .gitignore
   src/toolkit/
     __init__.py
     __main__.py
